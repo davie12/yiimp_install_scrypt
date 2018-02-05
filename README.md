@@ -52,7 +52,7 @@ bash block.sh
 
 To download and run 
 
-git clone 
+git clone https://github.com/ddunn712/yiimp_install_scrypt
 
 cd yiimp_install_scrypt
 
